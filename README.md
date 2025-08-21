@@ -6,15 +6,16 @@
 ### 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎<img src="assets/arrows_1.gif" height="35em"  align="center"> 
 - **I’m a Backend Developer** from Siberia, currently based in Serbia.
 - **I’m interested in:** Designing clean architecture and building efficient APIs with Python. I also enjoy learning new languages like Serbian and Japanese.  
-- **I’m currently working on:** An open-source SaaS [project management task-tracking service](https://github.com/Digital-Thread/sup/blob/main/README.md).
-- **I’m learning:** Diving into asyncio and writing high-quality tests.  
+- **I’m currently working on:** A platform for Dungeons & Dragons - featuring a knowledge base, character builder, and so on...  
+Follow updates on the project in my [Telegram channel](https://t.me/duckstalk). 
+- **I’m learning:** Practicing Domain-Driven Design (DDD) and Test-Driven Development (TDD) - applying them in real backend architecture.  
 - **Fun fact:** I have a dog named Luna, and we often call her "булочка" (which means "little bun" in Russian) ^-^ 
 
 ![Custom Divider](assets/wave-haikei.svg)
 
 
 ### 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎<img src="assets/arrows_1.gif" height="35em"  align="center">
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35em"  align="center" alt="Contact me on Telegram" title="Contact me on Telegram"/>](https://t.me/Lena_AGI)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35em"  align="center" alt="Contact me on Telegram" title="Contact me on Telegram"/>](https://t.me/Animatrees)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35em"  align="center" alt="Connect with me on LinkedIn" title="Connect with me on LinkedIn"/>](https://www.linkedin.com/in/elena-vedeneva/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35em"  align="center" alt="Send me an email" title="Send me an email"/>](mailto:e.vedeneva.job@gmail.com)<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&pause=300&color=CC0A0A&width=435&lines=Open+to+work...)](https://git.io/typing-svg)
@@ -54,4 +55,4 @@
 ![](https://raw.githubusercontent.com/Animatrees/Animatrees/main/profile-summary-card-output/buefy/3-stats.svg)
 ![](https://raw.githubusercontent.com/Animatrees/Animatrees/main/profile-summary-card-output/buefy/4-productive-time.svg)
 <br/>
-*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-02-11`
+*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-08-21`
